@@ -25,12 +25,11 @@ O projeto é composto por dois arquivos principais:
 - `style.css`: Contém o estilo visual e as animações da página.
 
 ## Como Usar
-
 Clone ou baixe este repositório em seu computador.
 
 Abra o arquivo `index.html` no seu navegador para visualizar a página de login em funcionamento.
 
-git clone https://github.com/archivesysl/loginwithanimation.git
+Link p/ Clone: https://github.com/archivesysl/loginwithanimation.git
 
 Personalização
 Para trocar a imagem do lado esquerdo, substitua o arquivo cidade.svg na pasta de imagens pelo arquivo de sua preferência.
