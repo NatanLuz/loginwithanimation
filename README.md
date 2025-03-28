@@ -31,21 +31,5 @@ Abra o arquivo `index.html` no seu navegador para visualizar a página de login 
 
 Link p/ Clone: https://github.com/archivesysl/loginwithanimation.git
 
-Personalização
-Para trocar a imagem do lado esquerdo, substitua o arquivo cidade.svg na pasta de imagens pelo arquivo de sua preferência.
-
-Para modificar o estilo da página (cores, fontes, etc.), edite o arquivo style.css.
-
-Estrutura HTML
-A página é dividida em dois blocos principais:
-
-left-login: Seção com título e imagem ilustrativa do lado esquerdo.
-
-right-login: Seção com o cartão de login, incluindo campos de entrada para o usuário e senha, além do botão de login.
-
-Layout
-O layout segue uma abordagem simples e moderna:
-
-Esquerda: Contém uma imagem de fundo e um título chamativo.
-
-Direita: Contém um formulário de login com dois campos de entrada e um botão de login.
+Autor
+Natan Da Luz-Desenvolvedor
