@@ -1,4 +1,4 @@
-# Login with Animation - Página de Login Simples
+# LoginwithAnimation - Página de Login Simples
 
 Este é um projeto de uma página de login simples, desenvolvida utilizando HTML e CSS. A página é projetada para fornecer uma experiência limpa e visualmente agradável, com animações e um layout responsivo. O layout é dividido em duas seções: uma imagem ilustrativa do lado esquerdo e um formulário de login estilizado do lado direito.
 
