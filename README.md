@@ -1,37 +1,38 @@
-# LoginwithAnimation - Página de Login Simples
+## LoginwithAnimation - Simple Login Page
 
-Este é um projeto de uma página de login simples, desenvolvida utilizando HTML e CSS. A página é projetada para fornecer uma experiência limpa e visualmente agradável, com animações e um layout responsivo. O layout é dividido em duas seções: uma imagem ilustrativa do lado esquerdo e um formulário de login estilizado do lado direito.
+This is a simple login page project, developed using HTML and CSS. The page is designed to provide a clean and visually pleasant experience, with animations and a responsive layout. The layout is divided into two sections: an illustrative image on the left side and a styled login form on the right.
 
-## VISUALIZE AQUI: https://imgur.com/BCYRdCG
+VIEW HERE: https://imgur.com/BCYRdCG
 
-## Funcionalidades
+Features
+Input fields: For Username and Password.
 
-- **Campos de entrada**: Para Usuário e Senha.
-- **Botão de login**: Com estilo customizado e animação ao passar o mouse.
-- **Layout Responsivo**: Ajusta-se automaticamente a diferentes tamanhos de tela, proporcionando uma boa experiência tanto em desktops quanto em dispositivos móveis.
-- **Imagem ilustrativa**: Uma imagem de fundo do lado esquerdo da página.
-- **Animações**: Efeitos suaves de transição e animações para melhorar a interação do usuário.
+Login button: Custom-styled with hover animation.
 
-## Tecnologias Utilizadas
+Responsive Layout: Automatically adjusts to different screen sizes, providing a good experience on both desktops and mobile devices.
 
-- **HTML**: Estrutura básica da página de login.
-- **CSS**: Estilização e animações para a página de login.
-- **Responsividade**: Utilizando media queries para adaptar o layout em diferentes dispositivos.
-- **Fontes**: Integração com o Google Fonts para melhorar a tipografia.
+Illustrative Image: A background image on the left side of the page.
 
-## Estrutura do Projeto
+Animations: Smooth transition effects and animations to enhance user interaction.
 
-O projeto é composto por dois arquivos principais:
+Technologies Used
+HTML: Basic structure of the login page.
+CSS: Styling and animations for the login page.
+Responsiveness: Using media queries to adapt the layout to different devices.
+Fonts: Integration with Google Fonts to improve typography.
 
-- `index.html`: Contém a estrutura e os elementos da página de login.
-- `style.css`: Contém o estilo visual e as animações da página.
 
-## Como Usar
-Clone ou baixe este repositório em seu computador.
+Project Structure
+The project is composed of two main files:
+index.html: Contains the structure and elements of the login page.
+style.css: Contains the visual styling and animations of the page.
 
-Abra o arquivo `index.html` no seu navegador para visualizar a página de login em funcionamento.
+How to Use
+Clone or download this repository to your computer.
 
-Link p/ Clone: https://github.com/archivesysl/loginwithanimation.git
+Open the index.html file in your browser to view the working login page.
 
-Autor
-Natan Da Luz-Desenvolvedor
+Clone Link: https://github.com/archivesysl/loginwithanimation.git
+
+Author
+Natan Da Luz – Developer
