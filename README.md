@@ -7,9 +7,7 @@ The page is designed to provide a clean and visually pleasant experience, with a
 The layout is divided into two sections: an illustrative image on the left side and a styled login form on the right.  
 
 
-🔗 **View here:** ![Preview](https://i.imgur.com/SZSbkZm.png)
-
-
+🔗 **View here:** [Live Preview](https://i.imgur.com/SZSbkZm.png) 
 
 ---
 
