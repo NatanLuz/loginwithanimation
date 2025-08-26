@@ -1,14 +1,10 @@
 ## LoginwithAnimation - Simple Login Page  
 
-![Preview](https://i.imgur.com/2NKicgM.png)
-
 This is a simple login page project, developed using HTML and CSS.  
 The page is designed to provide a clean and visually pleasant experience, with animations and a responsive layout.  
 The layout is divided into two sections: an illustrative image on the left side and a styled login form on the right.  
 
-
-🔗 **View here:** [Live Preview](https://i.imgur.com/SZSbkZm.png) 
-
+![Preview](https://i.imgur.com/SZSbkZm.png)
 ---
 
 ## Features  
