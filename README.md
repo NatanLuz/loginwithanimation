@@ -1,49 +1,55 @@
-## LoginwithAnimation - Simple Login Page  
+## Página de Login com animação Simples
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
 [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat&logo=google&logoColor=white)]()
 
-This is a simple login page project, developed using HTML and CSS.  
-The page is designed to provide a clean and visually pleasant experience, with animations and a responsive layout.  
-The layout is divided into two sections: an illustrative image on the left side and a styled login form on the right.  
+Este é um projeto de página de login simples, desenvolvido utilizando HTML e CSS.  
+A página foi pensada para oferecer uma experiência limpa e agradável visualmente, com animações e layout responsivo.  
+O layout é dividido em duas seções: uma imagem ilustrativa no lado esquerdo e um formulário de login estilizado no lado direito.
 
-![Preview](https://i.imgur.com/SZSbkZm.png)
----
+## ![Preview](https://i.imgur.com/SZSbkZm.png)
 
-## Features  
-- **Input fields:** For Username and Password.  
-- **Login button:** Custom-styled with hover animation.  
-- **Responsive Layout:** Works on desktop and mobile.  
-- **Illustrative Image:** On the left side of the page.  
-- **Animations:** Smooth transitions for better UX.  
+## Funcionalidades
 
----
-
-## Technologies Used  
-- **HTML5:** Structure  
-- **CSS3:** Styling + animations  
-- **Media Queries:** Responsiveness  
-- **Google Fonts:** Typography  
+- **Campos de entrada:** Para Usuário e Senha.
+- **Botão de login:** Estilizado com animação de hover.
+- **Layout responsivo:** Funciona em desktop e dispositivos móveis.
+- **Imagem ilustrativa:** Exibida no lado esquerdo da página.
+- **Animações:** Transições suaves para uma melhor experiência do usuário (UX).
 
 ---
 
-## Project Structure  
-- `index.html` → Structure of the login page  
-- `style.css` → Styling and animations  
+## Tecnologias Utilizadas
+
+- **HTML5:** Estrutura
+- **CSS3:** Estilização e animações
+- **Media Queries:** Responsividade
+- **Google Fonts:** Tipografia
 
 ---
 
-## How to Use  
-Clone the repository:  
+## Estrutura do Projeto
+
+- `index.html` → Estrutura da página de login
+- `style.css` → Estilos e animações
+
+---
+
+## Como Utilizar
+
+Clone o repositório:
 
 ```bash
 git clone https://github.com/archivesysl/loginwithanimation.git
+```
 
+Abra o arquivo `index.html` diretamente no seu navegador.
 
-Open the index.html file in your browser.
+---
 
-Author
+## Autor
 
-Natan Da Luz – Developer
-📧 Contact: natandaluz01@gmail.com
+Natan Da Luz – Desenvolvedor  
+
+Contato: natandaluz01@gmail.com
