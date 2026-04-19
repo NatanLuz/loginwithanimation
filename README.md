@@ -1,55 +1,66 @@
-## Página de Login com animação Simples
+# Página de Login que contém Animação
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
-[![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat&logo=google&logoColor=white)]()
-
-Este é um projeto de página de login simples, desenvolvido utilizando HTML e CSS.  
-A página foi pensada para oferecer uma experiência limpa e agradável visualmente, com animações e layout responsivo.  
-O layout é dividido em duas seções: uma imagem ilustrativa no lado esquerdo e um formulário de login estilizado no lado direito.
-
-## ![Preview](https://i.imgur.com/SZSbkZm.png)
-
-## Funcionalidades
-
-- **Campos de entrada:** Para Usuário e Senha.
-- **Botão de login:** Estilizado com animação de hover.
-- **Layout responsivo:** Funciona em desktop e dispositivos móveis.
-- **Imagem ilustrativa:** Exibida no lado esquerdo da página.
-- **Animações:** Transições suaves para uma melhor experiência do usuário (UX).
+Interface de login desenvolvida com HTML e CSS, com foco em experiência visual, layout responsivo e animações suaves para melhorar a usabilidade.
 
 ---
 
-## Tecnologias Utilizadas
+## 🎯 Proposta de Valor
 
-- **HTML5:** Estrutura
-- **CSS3:** Estilização e animações
-- **Media Queries:** Responsividade
-- **Google Fonts:** Tipografia
+Demonstrar a construção de uma interface de login moderna e responsiva, com atenção a design, organização visual e experiência do usuário.
 
----
+**Benefícios principais:**
 
-## Estrutura do Projeto
-
-- `index.html` → Estrutura da página de login
-- `style.css` → Estilos e animações
+* Layout limpo e organizado
+* Experiência visual aprimorada com animações
+* Adaptação para diferentes tamanhos de tela
+* Estrutura simples e reutilizável
 
 ---
 
-## Como Utilizar
+## ⚙️ Funcionalidades
 
-Clone o repositório:
+* Campos de entrada para usuário e senha
+* Botão de login com efeito de hover
+* Layout dividido (imagem + formulário)
+* Responsividade para desktop e mobile
+* Animações e transições suaves
+
+---
+
+## 🏗️ Estrutura do Projeto
+
+* `index.html` → estrutura da página
+* `style.css` → estilização e animações
+
+---
+
+## 🧰 Stack Tecnológica
+
+* HTML5
+* CSS3
+* Media Queries (responsividade)
+* Google Fonts
+
+---
+
+## 🚀 Como Executar
+
+1. Clonar o repositório
+2. Abrir o arquivo `index.html` no navegador
 
 ```bash
 git clone https://github.com/archivesysl/loginwithanimation.git
 ```
 
-Abra o arquivo `index.html` diretamente no seu navegador.
+---
+
+## 📸 Preview
+
+<img src="https://i.imgur.com/SZSbkZm.png" width="600">
 
 ---
 
-## Autor
+## 👤 Autor
 
-Natan Da Luz – Desenvolvedor  
-
-Contato: natandaluz01@gmail.com
+**Natan Da Luz**
+Desenvolvedor Backend focado em PHP
