@@ -1,4 +1,4 @@
-# Página de Login que contém Animação
+# Página de Login com Animação
 
 Interface de login desenvolvida com HTML e CSS, com foco em experiência visual, layout responsivo e animações suaves para melhorar a usabilidade.
 
@@ -49,14 +49,12 @@ Demonstrar a construção de uma interface de login moderna e responsiva, com at
 2. Abrir o arquivo `index.html` no navegador
 
 ```bash
-git clone https://github.com/archivesysl/loginwithanimation.git
+git clone https://github.com/NatanLuz/loginwithanimation.git
 ```
 
 ---
 
 ## 📸 Preview
-
-<img src="https://i.imgur.com/SZSbkZm.png" width="600">
 
 ---
 
