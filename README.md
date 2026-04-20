@@ -54,10 +54,6 @@ git clone https://github.com/NatanLuz/loginwithanimation.git
 
 ---
 
-## 📸 Preview
-
----
-
 ## 👤 Autor
 
 **Natan Da Luz**
