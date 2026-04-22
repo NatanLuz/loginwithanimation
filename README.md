@@ -2,6 +2,8 @@
 
 Interface de login desenvolvida com HTML e CSS, com foco em experiência visual, layout responsivo e animações suaves para melhorar a usabilidade.
 
+Projeto que no qual também aplica a consistência e aperfeiçoamento em saber melhor sobre HTML E CSS em suas atualizações.
+
 ---
 
 ## 🎯 Proposta de Valor
