@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Sora:wght@100..800&display=swap');
 
 body {
@@ -26,20 +27,20 @@ body *{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column; /* Corrigido: flex-direction */
-    text-align: center; /* Centraliza o texto */
+    flex-direction: column; 
+    text-align: center;
 }
 
 .left-login > h1 {
     color: #77ffc0;
-    font-size: 2.5vw; /* Tamanho responsivo */
-    margin-bottom: 20px; /* Espaçamento abaixo do título */
+    font-size: 2.5vw; 
+    margin-bottom: 20px;
 }
 
 .left-login-image {
-    width: 80%; /* Ajuste o tamanho da imagem */
-    max-width: 500px; /* Limita o tamanho máximo */
-    height: auto; /* Mantém a proporção */
+    width: 80%; 
+    max-width: 500px; 
+    height: auto; 
 }
 
 .right-login {
