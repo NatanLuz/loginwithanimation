@@ -1,62 +1,55 @@
-# Página de Login com Animação
+## Página de Login com animação Simples
 
-Interface de login desenvolvida com HTML e CSS, com foco em experiência visual, layout responsivo e animações suaves para melhorar a usabilidade.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
+[![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat&logo=google&logoColor=white)]()
 
-Projeto que no qual também aplica a consistência e aperfeiçoamento em saber melhor sobre HTML E CSS em suas atualizações.
+Este é um projeto de página de login simples, desenvolvido utilizando HTML e CSS.  
+A página foi pensada para oferecer uma experiência limpa e agradável visualmente, com animações e layout responsivo.  
+O layout é dividido em duas seções: uma imagem ilustrativa no lado esquerdo e um formulário de login estilizado no lado direito.
 
----
+## ![Preview](https://i.imgur.com/SZSbkZm.png)
 
-## 🎯 Proposta de Valor
+## Funcionalidades
 
-Demonstrar a construção de uma interface de login moderna e responsiva, com atenção a design, organização visual e experiência do usuário.
-
-**Benefícios principais:**
-
-* Layout limpo e organizado
-* Experiência visual aprimorada com animações
-* Adaptação para diferentes tamanhos de tela
-* Estrutura simples e reutilizável
-
----
-
-## ⚙️ Funcionalidades
-
-* Campos de entrada para usuário e senha
-* Botão de login com efeito de hover
-* Layout dividido (imagem + formulário)
-* Responsividade para desktop e mobile
-* Animações e transições suaves
+- **Campos de entrada:** Para Usuário e Senha.
+- **Botão de login:** Estilizado com animação de hover.
+- **Layout responsivo:** Funciona em desktop e dispositivos móveis.
+- **Imagem ilustrativa:** Exibida no lado esquerdo da página.
+- **Animações:** Transições suaves para uma melhor experiência do usuário (UX).
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Tecnologias Utilizadas
 
-* `index.html` → estrutura da página
-* `style.css` → estilização e animações
-
----
-
-## 🧰 Stack Tecnológica
-
-* HTML5
-* CSS3
-* Media Queries (responsividade)
-* Google Fonts
+- **HTML5:** Estrutura
+- **CSS3:** Estilização e animações
+- **Media Queries:** Responsividade
+- **Google Fonts:** Tipografia
 
 ---
 
-## 🚀 Como Executar
+## Estrutura do Projeto
 
-1. Clonar o repositório
-2. Abrir o arquivo `index.html` no navegador
+- `index.html` → Estrutura da página de login
+- `style.css` → Estilos e animações
+
+---
+
+## Como Utilizar
+
+Clone o repositório:
 
 ```bash
-git clone https://github.com/NatanLuz/loginwithanimation.git
+git clone https://github.com/archivesysl/loginwithanimation.git
 ```
+
+Abra o arquivo `index.html` diretamente no seu navegador.
 
 ---
 
-## 👤 Autor
+## Autor
 
-**Natan Da Luz**
-Desenvolvedor Backend focado em PHP
+Natan Da Luz – Desenvolvedor  
+
+Contato: natandaluz01@gmail.com
