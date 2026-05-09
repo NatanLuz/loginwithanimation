@@ -7,8 +7,10 @@
 Sobre o projeto construído :
 
 Este é um projeto de página de login simples, desenvolvido utilizando HTML e CSS.  
+
 A página foi pensada para oferecer uma experiência limpa e agradável visualmente, com animações e layout responsivo.  
-O layout é dividido em duas seções: uma imagem ilustrativa no lado esquerdo e um formulário de login estilizado no lado direito.
+
+Este layout é dividido em duas seções: uma imagem ilustrativa no lado esquerdo e um formulário de login estilizado no lado direito.
 
 ## ![Preview](https://i.imgur.com/SZSbkZm.png)
 
