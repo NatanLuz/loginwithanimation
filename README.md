@@ -1,5 +1,4 @@
-# Página de Login com Animação (HTML, CSS, JAVASCRIPT)
-
+# Página de Login com Animação (HTML & CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
 [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat&logo=google&logoColor=white)]()
